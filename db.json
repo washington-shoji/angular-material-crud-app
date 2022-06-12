@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Avocado",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 15,
+      "comment": "Fresh Avocado!",
+      "date": "2022-05-07T14:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 5,
+      "comment": "Fresh bananas.",
+      "date": "2022-06-11T14:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
